@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "ca5faecfc88b1db8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbac87adb24984fe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/_sidebar.md.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "52578c83668cecb3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da5e1ec4f607db48",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a309737fccedab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f32203fd17a5a6aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "84d4c084c0ae6601",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f4c21425b18f9c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a4b4bf76417e0ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1219845f3c01411d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "52578c83668cecb3",
+  "lastOpenFiles": [
+    "README.md",
+    "docs/_sidebar.md.md",
+    "docs/Introduction/what-is-php/README.md.md",
+    "docs/Introduction/02 Why You should learn PHP ?.md"
+  ]
+}
