@@ -5,11 +5,11 @@
     margin-right: 3em;
 }
 
-/* .sidebar-nav li > a[href^="/"]:not([href*="?id="]):only-child,
+.sidebar-nav li > a[href^="/"]:not([href*="?id="]):only-child,
 .sidebar-nav li > a[href^="#/"]:not([href*="?id="]):only-child {
     background-image: none;
     padding-right: 14px;
-} */
+}
 
 sidebar-nav ul > li > span,
 .sidebar-nav ul > li > strong,
